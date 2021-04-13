@@ -1,7 +1,7 @@
-# HIP-0004 : Interactive Atomic Name Swaps
+# HIP-xxxx : Time Locked UPDATE transactions
 
 ```
-Number:  HIP-xxx
+Number:  HIP-xxxx
 Title:   Time Locked UPDATE transactions
 Type:    Standards Track
 Status:  Draft
